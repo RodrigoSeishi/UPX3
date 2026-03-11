@@ -3,12 +3,12 @@ Projeto acadêmico com foco em Energia Limpa e Acessível.
 
 ## **Membros da Equipe**
 
-Erick Lucas, 251386, Desenvolvedor, Tel. 15 99772-5416
+Erick Lucas, 251386, (E-mail), Desenvolvedor;
 
-Giovanni Lati, 250870, Desenvolvedor, Tel. 15 99137-0224;
+Giovanni Lati, 250870, (E-mail), Desenvolvedor;
 
-Mateus Coelho Cardoso, 250855, Desenvolvedor, Tel. 15 99115-3783;
+Mateus Coelho Cardoso, 250855, (E-mail), Desenvolvedor;
 
-Rodrigo Kitazono, 251689, Product Owner, Tel. 15 996921559;
+Rodrigo Kitazono, 251689, seishicomercial@gmail.com, Product Owner;
 
-Vitor Hugo, 240645, Desenvolvedor Front-End, Tel. 15 99836-1734
+Vitor Hugo, 240645, (E-mail), Desenvolvedor Front-End.
