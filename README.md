@@ -12,3 +12,5 @@ Mateus Coelho Cardoso, 250855, (E-mail), Desenvolvedor;
 Rodrigo Kitazono, 251689, seishicomercial@gmail.com, Product Owner;
 
 Vitor Hugo, 240645, (E-mail), Desenvolvedor Front-End.
+
+---
