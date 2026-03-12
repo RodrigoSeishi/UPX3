@@ -1,16 +1,23 @@
-# **UPX3 - (Nome do projeto)**
-Projeto acadêmico com foco em Energia Limpa e Acessível.
+# Plataforma de Mapeamento de Projetos de Energia Renovável
 
-## **Membros da Equipe**
+Um parágrafo da descrição do projeto vai aqui
 
-Erick Lucas Oliveira, RA 251386, (E-mail), Desenvolvedor;
+## 🚀 Começando
 
-Giovanni Lati, RA 250870, (E-mail), Desenvolvedor;
+Pode colocar o enunciado para o desenvolvimento do projeto
 
-Mateus Coelho Cardoso, RA 250855, (E-mail), Desenvolvedor;
+### 📋 Pré-requisitos
 
-Rodrigo Seishi Suzuki Kitazono, RA 251689, seishicomercial@gmail.com, Product Owner;
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-Vitor Hugo Magalhaes de Oliveira, RA 240645, (E-mail), Desenvolvedor Front-End.
+```
+Dar exemplos
+```
 
----
+### 🔧 Instalação
+
+* Explicação de como deve ser utilizado o projeto
+
+## 🛠️ Construído com
+
+Ferramentas utilizadas e bibliotecas
