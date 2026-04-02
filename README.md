@@ -21,3 +21,7 @@ Dar exemplos
 ## 🛠️ Construído com
 
 Ferramentas utilizadas e bibliotecas
+
+## ✒️ Autores
+
+* **Nome do desenvolvedor** - *Trabalho Inicial* - Nome da atividade
